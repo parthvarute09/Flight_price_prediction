@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r"""# ✈️ Flight Price Prediction
+# ✈️ Flight Price Prediction
 
 A machine learning project that estimates flight ticket prices using historical flight details. The project covers exploratory data analysis, data cleaning, feature engineering, categorical encoding, feature selection, regression modelling, evaluation, and hyperparameter tuning.
 
