@@ -182,7 +182,4 @@ Suggestions and improvements are welcome. Fork the repository, create a feature 
 ---
 
 **Author:** [parthvarute09](https://github.com/parthvarute09)
-"""
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme.splitlines())} lines)")
+
