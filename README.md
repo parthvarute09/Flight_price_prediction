@@ -178,9 +178,6 @@ The dataset files and notebook may be stored in different folders in the GitHub 
 
 Suggestions and improvements are welcome. Fork the repository, create a feature branch, make your changes, and open a pull request.
 
-## 📄 License
-
-No license information was verified for this repository. Add a license file if you intend to specify how others may use, modify, or distribute this project.
 
 ---
 
